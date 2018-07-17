@@ -36,3 +36,4 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 .gradle
 .sourcemaps
+package-lock.json
